@@ -3,8 +3,8 @@
 ## Integrantes del equipo
 
 - **Alexis García Nieves**
-- **Nombre completo de segundo integrante**
-- **Nombre completo del tercer integrante**
+- **María Jimena Júnez Huerta**
+- **Jesús Said Zesati Márquez**
 
 ## Indicaciones
 
